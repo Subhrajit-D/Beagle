@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.top-section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.top-section h1 {
+    margin: 0 0 10px;
+    font-size: 2em;
+}
+
+.top-section p {
+    font-size: 1em;
+    line-height: 1.5;
+    margin: 0 0 20px;
+}
+
+.top-section a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.top-section a:hover {
+    text-decoration: underline;
+}
+
+.image-section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.image-section h2 {
+    margin-top: 0;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.image-section a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.image-section a:hover {
+    text-decoration: underline;
+}
+
+.trivia-section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+.trivia-section h2 {
+    margin-top: 0;
+    text-align: center;
+}
+
+.trivia-section ol {
+    padding-left: 20px;
+}
+
+.trivia-section ol li {
+    margin-bottom: 10px;
+}
